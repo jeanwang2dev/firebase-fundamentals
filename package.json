@@ -1,0 +1,20 @@
+{
+  "name": "get-started",
+  "version": "1.0.0",
+  "description": "A project to study Firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jean Wang",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^9.6.6",
+    "serve": "^13.0.2"
+  },
+  "devDependencies": {
+    "webpack": "^5.68.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
